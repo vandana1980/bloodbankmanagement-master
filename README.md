@@ -4,8 +4,8 @@
 ## Screenshots
 ## Screenshots
 
-### Homepage  
-![homepage snap](https://github.com/vandana1980/Bloodbank/blob/main/bloodbankmanagement-master/static/screenshot/homepage.png?raw=true)
+### Homepage
+![homepage snap](https://github.com/vandana1980/Bloodbank/blob/main/bloodbankmanagement-master/static/image/homepage.jpg?raw=true)
 
 ### Admin Dashboard  
 ![dashboard snap](https://github.com/vandana1980/Bloodbank/blob/main/bloodbankmanagement-master/static/screenshot/admindashboard.png?raw=true)
