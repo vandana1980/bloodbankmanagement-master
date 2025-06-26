@@ -1,15 +1,16 @@
-# Exported from Render on 2025-06-26T05:04:54Z
+# Exported from Render on 2025-06-26
 services:
-- type: web
-  name: bloodbankmanagement
-  runtime: python
-  repo: https://github.com/vandana1980/bloodbankmanagement-master
-  plan: free
-  envVars:
-  - key: Bloodbank
-    sync: false
-  region: oregon
-  buildCommand: pip install -r requirements.txt
-  startCommand: gunicorn bloodbankmanagement
-  autoDeployTrigger: commit
+  - type: web
+    name: bloodbankmanagement
+    runtime: python
+    pythonVersion: 3.10.13
+    repo: https://github.com/vandana1980/bloodbankmanagement-master
+    plan: free
+    envVars:
+      - key: Bloodbank
+        sync: false
+    region: oregon
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn bloodbankmanagement.wsgi:application
+    autoDeployTrigger: commit
 version: "1"
