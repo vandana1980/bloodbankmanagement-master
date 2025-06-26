@@ -2,7 +2,6 @@
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Vandana%20Chaurasia-red)
 ---
 ## Screenshots
-## Screenshots
 
 ### Homepage
 ![homepage snap](https://github.com/vandana1980/bloodbankmanagement-master/blob/64834716c783cb845414db0d5571cb2138b93027/static/screenshot/homepage.png?raw=true)
