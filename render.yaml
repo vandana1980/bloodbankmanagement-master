@@ -1,9 +1,9 @@
-# Exported from Render on 2025-06-26
+# Updated render.yaml
 services:
   - type: web
     name: bloodbankmanagement
     runtime: python
-    pythonVersion: 3.10.13
+    pythonVersion: 3.10.13  # 👈 ADD THIS LINE
     repo: https://github.com/vandana1980/bloodbankmanagement-master
     plan: free
     envVars:
@@ -11,6 +11,6 @@ services:
         sync: false
     region: oregon
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn bloodbankmanagement.wsgi:application
+    startCommand: gunicorn bloodbankmanagement.wsgi:application  # 👈 FIX THIS LINE
     autoDeployTrigger: commit
 version: "1"
