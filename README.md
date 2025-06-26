@@ -8,16 +8,16 @@
 ![homepage snap](https://github.com/vandana1980/bloodbankmanagement-master/blob/64834716c783cb845414db0d5571cb2138b93027/static/screenshot/homepage.png?raw=true)
 
 ### Admin Dashboard  
-![dashboard snap](https://github.com/vandana1980/Bloodbank/blob/main/bloodbankmanagement-master/static/screenshot/admindashboard.png?raw=true)
+![dashboard snap](https://github.com/vandana1980/bloodbankmanagement-master/blob/e8c978d906634fb75630034324e99ae57253da68/static/screenshot/admindashboard.png?raw=true)
 
 ### Blood Donation  
-![donation snap](https://github.com/vandana1980/Bloodbank/blob/main/bloodbankmanagement-master/static/screenshot/blooddonation.png?raw=true)
+![donation snap](https://github.com/vandana1980/bloodbankmanagement-master/blob/e8c978d906634fb75630034324e99ae57253da68/static/screenshot/blooddonation.png?raw=true)
 
 ### Blood Request  
-![request snap](https://github.com/vandana1980/Bloodbank/blob/main/bloodbankmanagement-master/static/screenshot/bloodrequest.png?raw=true)
+![request snap](https://github.com/vandana1980/bloodbankmanagement-master/blob/e8c978d906634fb75630034324e99ae57253da68/static/screenshot/bloodrequest.png?raw=true)
 
 ### Logout  
-![logout snap](https://github.com/vandana1980/Bloodbank/blob/main/bloodbankmanagement-master/static/screenshot/logout.png?raw=true)
+![logout snap](https://github.com/vandana1980/bloodbankmanagement-master/blob/e8c978d906634fb75630034324e99ae57253da68/static/screenshot/logout.png?raw=true)
 ---
 ## Functions
 
